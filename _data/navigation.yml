@@ -8,3 +8,5 @@ links:
     collection: example-folder
   - title: New folder
     collection: about-us
+  - title: New single page
+    url: /text-1
