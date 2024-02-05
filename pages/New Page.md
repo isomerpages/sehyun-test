@@ -2,32 +2,21 @@
 title: New Page
 permalink: /text-1/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<ul class="jekyllcodex\_accordion">  
-  
-<li><input type="checkbox" id="accordion1">  
-<label for="accordion1">Insert Accordion Title here</label><div>  
-<p>Insert content here</p>  
-</div></li>  
-  
-<li><input type="checkbox" id="accordion2">  
-<label for="accordion2">Insert Accordion Title here</label><div>  
-<p>Insert content here</p>  
-</div></li>  
-  
-<li><input type="checkbox" id="accordion3">  
-<label for="accordion3">Insert Accordion Title here</label><div>  
-<p>Insert content here</p>  
-</div></li>  
-  
-</ul>
-
-[](mailto:?Subject=Accordion&amp;Body=https%3A%2F%2Fcheatsheet.isomer.gov.sg%2FAccordion%2F)
-
-[](http://www.facebook.com/sharer.php?u=https%3A%2F%2Fcheatsheet.isomer.gov.sg%2FAccordion%2F)
-
-[](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fcheatsheet.isomer.gov.sg%2FAccordion%2F&amp;title=Accordion)
-
-[  
-](https://cheatsheet.isomer.gov.sg/editing-your-page/Images/addingimages/)
+<p>test</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
